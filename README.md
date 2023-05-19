@@ -19,3 +19,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Screenshots
+
+!["Screenshot of Expense Tracker"](https://github.com/zainab66/expense-tracker-react/blob/main/docs/screenshot.png)
